@@ -4,5 +4,33 @@
   "url": "/home",
   "params": {},
   "variables": [],
-  "children": []
+  "children": [
+    {
+      "name": "test-component",
+      "nodeName": "test-component",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "-_3TXm"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "id": "662b054b95c5183d58ba0e55",
+      "expressions": []
+    }
+  ]
 }
