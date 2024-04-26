@@ -1,0 +1,42 @@
+{
+  "type": "custom-component",
+  "name": "test-component",
+  "children": [
+    {
+      "name": "Navigation",
+      "nodeName": "bln-navigation",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "24am1n"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "id": "navigation",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
